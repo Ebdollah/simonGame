@@ -1,1 +1,1 @@
-# simonGame
+# simonGame is unfinished
